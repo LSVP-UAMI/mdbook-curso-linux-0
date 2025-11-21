@@ -1,0 +1,4 @@
+[submodule "src"]
+	path = src
+	url = git@github.com:LSVP-UAMI/mdbook-cl0-content.git
+	branch = curso-linux-0-enero-2026
